@@ -1,0 +1,35 @@
+/* ################################# Tag Selector ##################################### */
+
+h1 {
+  color: red;
+}
+
+body {
+  background-color: bisque;
+}
+
+img:hover {
+  background-color: rebeccapurple;
+}
+
+/* ################################# Class Selector ##################################### */
+
+.circular {
+  border-radius: 100%;
+}
+
+.bacon {
+  background-color: greenyellow;
+}
+
+.compass {
+  height: 160px;
+  width: 160px;
+  background-color: orange;
+}
+
+/* ################################# Id Selector ##################################### */
+
+#heading {
+  color: blue;
+}
